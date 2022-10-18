@@ -8,4 +8,4 @@ Meu primeiro projeto de portifólio, feito durante o MapaDevWeek do Dev em Dobro
 - CSS
 - JavaScript
 
-[preview](./.portifolio-ana/portifolio.gif)
+<img src="portifolio-ana/portifolio.gif">
