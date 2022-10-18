@@ -2,10 +2,16 @@
 
 Meu primeiro projeto de portifólio, feito durante o MapaDevWeek do Dev em Dobro.
 
+
+
 ## Tecnologias Utilizadas:
+<br>
 
 - HTML
 - CSS
 - JavaScript
 
-<img src="portifolio-ana/portifolio.gif">
+<br>
+
+
+![previwe do portifolio](https://github.com/Ankaraujo/portifolio-ana/blob/main/portifolio.gif)
